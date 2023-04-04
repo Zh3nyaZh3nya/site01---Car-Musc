@@ -1,0 +1,10 @@
+/* Переменные */
+
+:root{
+    --fonts__bold: 'ReformaGroteskBold';
+    --fonts__medium: 'ReformaGroteskMedium';
+    --fonts__demi: 'ReformaGroteskDemi';
+    --letter__spacing: 0.05em;
+    --white: #ffffff;
+    --red: #DB3138;
+}
